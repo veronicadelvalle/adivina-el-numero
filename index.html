@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JUEGO ADIVINA EL NUMERO</title>
+  <link rel="stylesheet" href="assets/css/global-style.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <!-- CDN FONT AWESOME -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="capa"></div>
+    <div class="capa-two">
+      <section>
+        <h1>adivina el número secreto</h1>
+
+        <div class="box-input">
+          <input type="text" id="box-input" placeholder="Ingrese un número del 1 al 100">
+          <span id="error"></span>
+        </div>
+
+        <div class="buttons">
+          <button id="play">jugar</button>
+          <button id="reset">actualizar</button>
+        </div>
+
+        <div id="boxAlert" class="alert">
+          <span id="alerText"></span>
+          <i id="icon" class="fa-solid"></i>
+        </div>
+      </section>
+    </div>
+    <section id="boxModal" class="modal">
+      <div class="box-modal">
+        <div class="box-white">
+          <span id="close">x</span>
+          <img src="./assets/image/video-winner.gif" alt="Puesto ganador">
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="assets/js/main.js"></script> 
+</body>
+</html>
