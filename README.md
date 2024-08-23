@@ -21,3 +21,8 @@ Este es un juego de adivinanzas en el que el usuario debe adivinar un número en
 ```bash
 git clone <URL_DEL_REPOSITORIO>
 cd <DIRECTORIO_DEL_PROYECTO>
+
+## 👩‍💻 Participantes
+
+- **[GITHUB: Verónica Del Valle (Profesora)](https://github.com/veronicadelvalle)** - [LinkedIn](https://www.linkedin.com/in/usuario1/)
+- **[GITHUB: Alumno]()** - [LinkedIn]()
