@@ -1,4 +1,4 @@
-# Juego de Adivinanzas
+# 🎯 Juego de Adivinanzas
 ![Muestra de slider](./assets/image/video-winner.gif)
 
 ## 📝 Descripción
@@ -12,10 +12,9 @@ Este es un juego de adivinanzas en el que el usuario debe adivinar un número en
 
 ![html-5--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/4d1c653a-1d4b-4f07-9479-d4e03fbffd86) ![css3](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/687eab3e-adf9-4916-a6e3-916a73059d9b) ![javascript--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/b64e9b85-0c13-4383-ac7e-ad89c0acd799)
 
-## Instalación
-
-1. Clona el repositorio o descarga los archivos del proyecto.
-2. Abre el archivo `index.html` en tu navegador web para jugar el juego.
+## 🚀 Instalación
+1. Clona el repositorio o descarga los archivos del proyecto. 📥
+2. Abre el archivo index.html en tu navegador web para jugar el juego. 🌐
 
 ```bash
 git clone <URL_DEL_REPOSITORIO>
