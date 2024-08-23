@@ -21,6 +21,7 @@ Este es un juego de adivinanzas en el que el usuario debe adivinar un número en
 ```bash
 git clone <URL_DEL_REPOSITORIO>
 cd <DIRECTORIO_DEL_PROYECTO>
+```
 
 ## 👩‍💻 Participantes
 
