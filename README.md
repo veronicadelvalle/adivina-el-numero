@@ -5,6 +5,10 @@
 
 Este es un juego de adivinanzas en el que el usuario debe adivinar un número entre 1 y 100. 🕵️‍♂️ El objetivo es ingresar el número correcto para ganar el juego. 🏆 El juego proporciona retroalimentación sobre si el número ingresado es demasiado alto 🚀 o demasiado bajo ⬇️, ayudando al usuario a acercarse a la respuesta correcta. 🎯
 
+## 🌐 Jugar Ahora
+
+Para jugar al juego, visita la siguiente página web: [Number Mystery](https://number-mystery.netlify.app/)
+
 ## 💻 Tecnologías Utilizadas
 - HTML: Estructura básica del juego, incluyendo la creación de formularios y elementos de interfaz. 🌐
 - CSS: Estilos para la presentación visual del juego, asegurando que la interfaz sea atractiva y fácil de usar. 🎨
