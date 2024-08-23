@@ -1,4 +1,5 @@
 # Juego de Adivinanzas
+![Muestra de slider](asset/image/video-winner.gif)
 
 ## Descripción
 
